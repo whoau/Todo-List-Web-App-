@@ -1,6 +1,6 @@
 # Todo List Web App
 
-![Demo](demo.gif) 
+
 
 一个轻量级的待办事项管理web应用
 
